@@ -4,4 +4,9 @@
 <div style="text-align: center;">
 <br /></div>
 <div style="text-align: center;">
-<b><span style="font-size: large;">Lista de&nbsp;Exercício&nbsp;(1) Linguagem C++</span></b></div>
+<span style="font-size: large;"><b>Escola de Ciências e Tecnologia – UFRN</b></span><br />
+<span style="font-size: large;"><b><br /></b></span>
+<span style="font-size: large;"><b>Listas de Exercícios Projetadas para iniciantes:&nbsp;</b></span><br />
+<div style="text-align: left;">
+<b style="font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Melquiades Fidelis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><span style="font-size: large;"><u>Tech sempZ</u></span></div>
+<b><span style="font-size: large;"><br /></span></b></div>
